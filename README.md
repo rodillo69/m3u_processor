@@ -1,4 +1,3 @@
-readme_content = """
 # 📺 M3U Processor: Optimizador y Organizador de Listas IPTV
 
 ¡Bienvenido al **M3U Processor**! Este potente script de Python ha sido cuidadosamente diseñado para transformar tus listas de canales IPTV (archivos M3U) de un simple listado a una experiencia de visualización fluida, organizada y siempre actualizada. Olvídate de los canales que no funcionan, la programación desfasada o las listas desordenadas. Con esta herramienta, tendrás el control total sobre tu contenido multimedia.
@@ -258,4 +257,3 @@ Si tienes preguntas, sugerencias, encuentras algún problema o simplemente quier
 * **GitHub:** [https://github.com/rodillo69](https://github.com/rodillo69)
 
 ¡Gracias por usar y contribuir al M3U Processor!
-"""
